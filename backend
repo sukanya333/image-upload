@@ -1,0 +1,14 @@
+<script>start("c:\\Users\\bhatt\\image-upload-app\\backend\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("__pycache__","__pycache__",1,0,"0 B",1741967784,"3/14/25, 9:26:24 PM");</script>
+<script>addRow("dist","dist",1,0,"0 B",1741942772,"3/14/25, 2:29:32 PM");</script>
+<script>addRow("routes","routes",1,0,"0 B",1741965816,"3/14/25, 8:53:36 PM");</script>
+<script>addRow("uploads","uploads",1,0,"0 B",1741941431,"3/14/25, 2:07:11 PM");</script>
+<script>addRow("utils","utils",1,0,"0 B",1741941428,"3/14/25, 2:07:08 PM");</script>
+<script>addRow("venv","venv",1,0,"0 B",1741932416,"3/14/25, 11:36:56 AM");</script>
+<script>addRow("__init__.py","__init__.py",0,0,"0 B",1741966578,"3/14/25, 9:06:18 PM");</script>
+<script>addRow(".env",".env",0,375,"375 B",1741966007,"3/14/25, 8:56:47 PM");</script>
+<script>addRow("app.py","app.py",0,950,"950 B",1741967757,"3/14/25, 9:25:57 PM");</script>
+<script>addRow("config.py","config.py",0,548,"548 B",1741966291,"3/14/25, 9:01:31 PM");</script>
+<script>addRow("models.py","models.py",0,549,"549 B",1741962686,"3/14/25, 8:01:26 PM");</script>
+<script>addRow("requirements.txt","requirements.txt",0,0,"0 B",1741932876,"3/14/25, 11:44:36 AM");</script>
